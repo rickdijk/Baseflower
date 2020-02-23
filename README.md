@@ -1,7 +1,7 @@
 Baseflower
 ==========
 
-Playground app for Xamarin Forms and MvvmCross
+Playground app for Xamarin Forms
 
 
 # Support
